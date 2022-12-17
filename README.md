@@ -9,12 +9,8 @@ Each hero is tasked with some missions to stop the fire invasion, hunt can kill 
 
 Allies can be summoned as an AI NPC to aid the player while fighting tough battles and hard bosses.
 
-
-Another Unfished project because of low budget. We event try the Kickstare for that one but we was unexprienced and didn't have acssess to most famous game sites 
-to promote us because of you know US Saniction and they didnt collabrate with us . 
-
-Here is Linke to the kickStarterPage
+Here is Link to the kickStarterPage
 
 https://www.kickstarter.com/projects/naturewarriors/the-nature-warriors
 
-@kathrina I can upload the prototype if you and your guys wants to look at it but it's some hard  for me becusee of it's huge size and our low speed internet and that fact that we connect using vpn because goverments closed all foriegner Social media's IP and even now all foriegn countries IP.
+
